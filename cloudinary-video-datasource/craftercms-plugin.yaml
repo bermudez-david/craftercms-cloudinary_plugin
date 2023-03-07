@@ -9,26 +9,27 @@ plugin:
   id: org.capgemini.plugin.videoCldRepo
   name: Cloudinary Video Media Library
   tags:
-    - test
+    - Cloudinary
+    - Cloudinary Media Library Widget
   version:
     major: 1
     minor: 0
     patch: 6
-  description: A plugin to provide a Cldy workflow
-  # documentation: "https://raw.githubusercontent.com/russdanner/plugin-studio-trellowf/master/README.md"
-  # website:
-  #   name: Trello Plugin
-  #   url: https://github.com/russdanner/plugin-trello
+  description: A plugin to provide Cloudinary Media Library Widget
+  documentation: "https://raw.githubusercontent.com/bermudez-david/craftercms-cloudinary_plugin/master/README.md"
+  website:
+    name: Cloudinary Video Media Library Plugin
+    url: https://github.com/bermudez-david/craftercms-cloudinary_plugin
   # media:
   #   screenshots:
   #     - title: CrafterCMS
-  #       description: CrafterCMS Plugin for Trello
+  #       description: CrafterCMS Plugin for Cloudinary
   #       url: "https://raw.githubusercontent.com/russdanner/plugin-studio-trellowf/master/.crafter/logo.png"
-  # developer:
-  #   company:
-  #     name: Russ Danner
-  #     email: russdanner@craftercms.com
-  #     url: https://github.com/russdanner
+  developer:
+    company:
+      name: Capgemini
+      email: david.bermudez@capgemini.com
+      url: https://github.com/bermudez-david
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT
